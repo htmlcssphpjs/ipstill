@@ -1,0 +1,5 @@
+requests
+aiogram
+sqlalchemy
+iptools
+geoip2
